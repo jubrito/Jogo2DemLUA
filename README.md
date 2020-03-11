@@ -2,6 +2,8 @@
 
 # JOGO VIAGEM ESPACIAL 2D - MENINAS EM EUROPA
 
+## Contexto 
+
 **Clube de Ciências e Intervenções**  
 
 Durante os 3 anos de iniciação científica no Lab das Minas (1 deles atuando como coordenadora), participei como monitora em intervenções realizadas durante um Clube de Ciências para mulheres de escolas públicas da Zona Leste de São Paulo. 
