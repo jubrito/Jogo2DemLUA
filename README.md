@@ -14,7 +14,14 @@ Minha pesquisa interessou as participantes do grupo e com isso decidi criar mais
 
 ![](visualizacao.gif?raw=true "Como jogar o jogo")
 
+
+## Onde jogar
+
+Baixe o aplicativo ``TIC-80.exe`` ou acesse o jogo diretamente do site: https://tic.computer/play?cart=1147
+
+
 ## Como jogar
+
 Você é uma astronauta e precisa de combustível para conseguir prosseguir a viagem. 
 
 Cuidado com os meteoros!
