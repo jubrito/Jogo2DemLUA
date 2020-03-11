@@ -14,13 +14,16 @@ Minha pesquisa interessou as participantes do grupo e com isso decidi criar mais
 
 ## Como jogar
 Você é uma astronauta e precisa de combustível para conseguir prosseguir a viagem. 
+
 Cuidado com os meteoros!
 
 <ul>
     <li>
         Use <kbd>←</kbd> para se movimentar para a esquerda
     </li>
+    <li>
         Use <kbd>→</kbd> para se movimentar para a direita
+    </li>
     <li>
         Use <kbd>↑</kbd> para se movimentar para cima
     </li>
