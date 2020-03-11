@@ -7,6 +7,7 @@
 -- OFICINA DE JOGOS 2D COM LUA
 -- LAB DAS MINAS 
 
+
 objetos = {
 
 }
